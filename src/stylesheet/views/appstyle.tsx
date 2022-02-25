@@ -1,0 +1,8 @@
+import { StyleSheet } from "react-native";
+import Colors from "../color";
+
+const style = StyleSheet.create({
+  app: {
+    backgroundColor: Colors.Transparent,
+  },
+});

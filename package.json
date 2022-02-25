@@ -1,0 +1,73 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.36",
+    "@fortawesome/free-solid-svg-icons": "^5.15.4",
+    "@fortawesome/react-native-fontawesome": "^0.2.7",
+    "@gorhom/bottom-sheet": "^4.1.5",
+    "@react-navigation/bottom-tabs": "^6.0.9",
+    "@react-navigation/native": "^6.0.6",
+    "@react-navigation/native-stack": "^6.2.5",
+    "@types/react-native-snap-carousel": "^3.8.5",
+    "add": "^2.0.6",
+    "babel-preset-react-native": "^2.1.0",
+    "expo": "~43.0.0",
+    "expo-status-bar": "~1.1.0",
+    "formik": "^2.2.9",
+    "lottie-react-native": "^5.0.1",
+    "pod": "^0.9.0",
+    "react": "^17.0.1",
+    "react-dom": "17.0.1",
+    "react-hook-form": "^7.21.0",
+    "react-native": "0.64.3",
+    "react-native-countdown-component": "^2.7.1",
+    "react-native-credit-card": "^0.1.9",
+    "react-native-dialog-component": "^0.2.17",
+    "react-native-elements": "^3.4.2",
+    "react-native-gesture-handler": "^2.1.0",
+    "react-native-maps": "0.29.4",
+    "react-native-modalbox": "^1.7.1",
+    "react-native-pager-view": "^5.4.9",
+    "react-native-paper": "^4.10.1",
+    "react-native-permissions": "^3.1.0",
+    "react-native-progress": "^5.0.0",
+    "react-native-reanimated": "^2.3.1",
+    "react-native-responsive-screen": "^1.4.2",
+    "react-native-safe-area-context": "3.3.2",
+    "react-native-screens": "~3.8.0",
+    "react-native-svg": "^12.1.1",
+    "react-native-swiper": "^1.6.0",
+    "react-native-web": "0.17.1",
+    "rn-credit-card": "^1.0.4",
+    "toggle-switch-react-native": "^3.3.0",
+    "yup": "^0.32.11"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.9",
+    "@types/react": "~17.0.21",
+    "@types/react-native": "~0.64.12",
+    "babel-preset-env": "^1.7.0",
+    "typescript": "~4.3.5"
+  },
+  "private": true,
+  "name": "Ecommerce",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://andriessebola@bitbucket.org/novolab-digital/application.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://bitbucket.org/novolab-digital/application/issues"
+  },
+  "homepage": "https://bitbucket.org/novolab-digital/application#readme",
+  "description": ""
+}
